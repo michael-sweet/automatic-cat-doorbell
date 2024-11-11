@@ -1,0 +1,5 @@
+[Settings]
+image_folder =
+notification_url = 
+yolos_model = hustvl/yolos-tiny
+min_notification_interval_minutes = 20
